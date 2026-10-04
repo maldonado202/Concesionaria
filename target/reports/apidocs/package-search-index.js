@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.mycompany.automovil"},{"l":"com.mycompany.automovil.igu"},{"l":"com.mycompany.automovil.logica"}];updateSearchResults();

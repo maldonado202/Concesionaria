@@ -1,0 +1,10 @@
+com\mycompany\automovil\igu\ConsultaAutomovil.class
+com\mycompany\automovil\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\automovil\igu\ConsultaAutomovil$2.class
+com\mycompany\automovil\igu\ConsultaAutomovil$1.class
+com\mycompany\automovil\igu\ModifAuto.class
+com\mycompany\automovil\persistencia\AutomovilJpaController.class
+com\mycompany\automovil\persistencia\ControladoraPersistencia.class
+com\mycompany\automovil\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\automovil\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\automovil\logica\Controladora.class
